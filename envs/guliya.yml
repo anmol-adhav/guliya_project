@@ -1,0 +1,14 @@
+name: guliya
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - prodigal-gv
+  - mmseqs2>=14.0
+  - seqkit
+  - biopython>=1.81
+  - pandas>=2.0
+  - numpy
+  - pip
