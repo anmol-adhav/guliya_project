@@ -1,0 +1,16 @@
+# Large data files — do not track
+input/
+gene_calls/
+annotation/
+structures/
+novel_folds/
+results/
+foldseek_dbs/
+logs/
+tmp/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+*.tmp
+nohup.out
