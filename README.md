@@ -1,6 +1,6 @@
 # guliya_project
 Guliya Glacier Virome — Dark Proteome &amp; Novel Fold Discovery
-# 🧊 Guliya Glacier Virome — Dark Proteome & Novel Fold Discovery
+# 🧊 Guliya Glacier Virome - Dark Proteome & Novel Fold Discovery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
